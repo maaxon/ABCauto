@@ -2,7 +2,7 @@ import {ICar} from "../../models/ICars";
 import axios from "axios";
 import {createAsyncThunk} from "@reduxjs/toolkit";
 
-const server = 'https://aimparts.heroku.com/api'
+const server = 'https://csrshop.onrender.com/api'
 
 export const fetchCars = createAsyncThunk(
     'cars/fetchAll',
