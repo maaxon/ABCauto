@@ -1,0 +1,27 @@
+{
+  "cars": [
+    { "id": 1,
+      "img": "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11376042/vehicle_slider_1%402x.jpg",
+      "brand":"BMW",
+      "model": "M5",
+      "description": "4.4 AT (600 л.с.) 4WD, 44581 км, Бензин, Полный привод, Fresh Минеральные Воды",
+      "price": 78000,
+      "gallery": [
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11376042/vehicle_slider_1%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11376043/vehicle_slider_2%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11376044/vehicle_slider_3%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11376045/vehicle_slider_4%402x.jpg"
+      ],
+      "spec": [{
+        "title": "Тип КПП",
+        "description":"Механическая"
+      },
+        {
+          "title": "Тип кузова",
+          "description":"седан"
+        }
+      ]
+    }
+  ],
+  "brands": ["BMW","Audi","Toyota","Subaru","Volkswagen","Mazda","Nissan","Renault","Mitsubishi"]
+}
