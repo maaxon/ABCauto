@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/circle-devs/static/css/main.9471176b.css",
-    "main.js": "/circle-devs/static/js/main.143bed76.js",
+    "main.js": "/circle-devs/static/js/main.b28f2b29.js",
     "static/js/787.d707ea0e.chunk.js": "/circle-devs/static/js/787.d707ea0e.chunk.js",
     "static/media/mark3.png": "/circle-devs/static/media/mark3.d5a05b408b192c52eac7.png",
     "static/media/mark2.png": "/circle-devs/static/media/mark2.a03bc90704c0fdc99afc.png",
@@ -16,11 +16,11 @@
     "static/media/bank1.png": "/circle-devs/static/media/bank1.4de98b6e3222ff4a022e.png",
     "index.html": "/circle-devs/index.html",
     "main.9471176b.css.map": "/circle-devs/static/css/main.9471176b.css.map",
-    "main.143bed76.js.map": "/circle-devs/static/js/main.143bed76.js.map",
+    "main.b28f2b29.js.map": "/circle-devs/static/js/main.b28f2b29.js.map",
     "787.d707ea0e.chunk.js.map": "/circle-devs/static/js/787.d707ea0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9471176b.css",
-    "static/js/main.143bed76.js"
+    "static/js/main.b28f2b29.js"
   ]
 }
