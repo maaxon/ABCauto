@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/circle-devs/static/css/main.9471176b.css",
+    "main.js": "/circle-devs/static/js/main.78da69a3.js",
+    "static/js/787.d707ea0e.chunk.js": "/circle-devs/static/js/787.d707ea0e.chunk.js",
+    "static/media/mark3.png": "/circle-devs/static/media/mark3.d5a05b408b192c52eac7.png",
+    "static/media/mark2.png": "/circle-devs/static/media/mark2.a03bc90704c0fdc99afc.png",
+    "static/media/banner.png": "/circle-devs/static/media/banner.fd08f7a4b4748ea0bed0.png",
+    "static/media/mark1.png": "/circle-devs/static/media/mark1.4ad8377bc96b28702fc9.png",
+    "static/media/about.png": "/circle-devs/static/media/about.b3fa15205897d52aaa4b.png",
+    "static/media/bank2.png": "/circle-devs/static/media/bank2.aa831bb0272865701aa8.png",
+    "static/media/bank3.png": "/circle-devs/static/media/bank3.b89903d1e9013a25cb11.png",
+    "static/media/logo.svg": "/circle-devs/static/media/logo.8d432baf1f5b0010f0cb360bb4310c66.svg",
+    "static/media/BrandLogo.png": "/circle-devs/static/media/BrandLogo.f4d2e7305ae05b0cfbe3.png",
+    "static/media/phone.png": "/circle-devs/static/media/phone.880c0363052fc46be3ca.png",
+    "static/media/bank1.png": "/circle-devs/static/media/bank1.4de98b6e3222ff4a022e.png",
+    "index.html": "/circle-devs/index.html",
+    "main.9471176b.css.map": "/circle-devs/static/css/main.9471176b.css.map",
+    "main.78da69a3.js.map": "/circle-devs/static/js/main.78da69a3.js.map",
+    "787.d707ea0e.chunk.js.map": "/circle-devs/static/js/787.d707ea0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9471176b.css",
+    "static/js/main.78da69a3.js"
+  ]
+}
