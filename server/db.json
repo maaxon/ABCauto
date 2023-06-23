@@ -21,7 +21,184 @@
           "description":"седан"
         }
       ]
+    },
+    { "id": 2,
+      "img": "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/12805544/vehicle_slider_1.ynrMfLa4ZpP6y-Se1B-QT_neZJVy3eSF-tBkkXzVbpl6%402x.-5k55BkGIouQ2dIY7dEAQOjP7lE04ltBpPOpU11qBmw",
+      "brand":"Audi",
+      "model": "RS 6",
+      "description": "4.0 AT (600 л.с.) 4WD, 22951 км, Бензин, Полный привод, Ауди Центр Выборгский",
+      "price": 75000,
+      "gallery": [
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/12805544/vehicle_slider_1.ynrMfLa4ZpP6y-Se1B-QT_neZJVy3eSF-tBkkXzVbpl6%402x.-5k55BkGIouQ2dIY7dEAQOjP7lE04ltBpPOpU11qBmw",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/12805545/vehicle_slider_1.YADI5ra4zOn-UU7khIc6Nf1Ezu92R07__krO63hPxON-%402x.NCFtlNUa4QsDFam-ObX1oyLZ5w78z3kn6rkxcdw3ZM8",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/12805546/vehicle_slider_1.ZLVlR7a4yFxT8EpRIUI-gFDlylrb5kpKU-vKXtXuwFbT%402x.JJKA-Q6IpKcDyplrGXkVPPxqJZvqWjCkyxOZ1HHOzNk",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/12805549/vehicle_slider_1.anrMHLa4xpP6q0SelGUwT_m-xJVyvUSF-rDEkXy1zpl6%402x.p2-Y9ybXBONlavIPym08wzlDhvK8t6I3CNua6P2iwQk"
+      ],
+      "spec": [{
+        "title": "Тип КПП",
+        "description":"Механическая"
+      },
+        {
+          "title": "Тип кузова",
+          "description":"универсал"
+        }
+      ]
+    },
+    { "id": 3,
+      "img": "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13604724/vehicle_slider_1.ub9c3ra4FVZqaZdbIuD5hmN8F1Dif5dAanIXVOx3HVzq%402x.XxykH5MaWPQIRMLsIYl_7zk74XCo49Ryj5stcLc7YdY",
+      "brand":"Audi",
+      "model": "S4",
+      "description": "3.0 AMT (333 л.с.) 4WD, 170867 км, Бензин, Полный привод, СИМ Введенского",
+      "price": 45000,
+      "gallery": [
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13604724/vehicle_slider_1.ub9c3ra4FVZqaZdbIuD5hmN8F1Dif5dAanIXVOx3HVzq%402x.XxykH5MaWPQIRMLsIYl_7zk74XCo49Ryj5stcLc7YdY",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13604725/vehicle_slider_1.5aURFra4SUwnoctBVxmlnC60S0qvt8taJ7pLTqG_QUan%402x.toWQ5lnabU6EEqG9nlD-JQHZk-5GKcQdwFWeuSec7nA",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13604726/vehicle_slider_1.taURHra4GUwnqZtBdxT1nC68G0qvv5taJ7IbTqG3EUan%402x.pv6JiejYF0_p7_yqxw9NxuZSBJ5Zy13_vxH2_cqNxvo",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13604727/vehicle_slider_1.GqTsPra4tk3aiTRA1D5andOctEtSnzRb2pK0T1yXvkda%402x.O4f3lfuICiljkHS-LvokjsO-wT6bKbZqthgj7o2K03s"
+      ],
+      "spec": [{
+        "title": "Тип КПП",
+        "description":"Автоматическая"
+      },
+        {
+          "title": "Тип кузова",
+          "description":"седан"
+        }
+      ]
+    },
+    { "id": 4,
+      "img": "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11729733/vehicle_slider_1.2A8HK7axdOYxnPbrO3COB9-IdOK7gn7k%402x.3K3-l6ZIn0wynkRa3e9JPIR3Dm9GuAcW-4xZWLjO9uQ",
+      "brand":"Audi",
+      "model": "S8",
+      "description": "2.8 AT (220 л.с.) 4WD, 147178 км, Бензин, Полный привод, Fresh Минеральные Воды",
+      "price": 45000,
+      "gallery": [
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11729733/vehicle_slider_1.2A8HK7axdOYxnPbrO3COB9-IdOK7gn7k%402x.3K3-l6ZIn0wynkRa3e9JPIR3Dm9GuAcW-4xZWLjO9uQ",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11729735/vehicle_slider_1.csfRirax3i7nPVwjuZcmzwkp3iptI9Qs%402x.E2-e8hfL_qlhR_i7Ta4iwkF9X8VMbS2Hv95xykzdvKY",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11729737/vehicle_slider_1.i2S4vbaxJ42OCqWAoovPT3weJ4kEFC2P%402x.Jxct32fOtxwuNb5G7o48D50xDeKoaIBoBvH1Y7_EBjM",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13604727/vehicle_slider_1.GqTsPra4tk3aiTRA1D5andOctEtSnzRb2pK0T1yXvkda%402x.O4f3lfuICiljkHS-LvokjsO-wT6bKbZqthgj7o2K03s"
+      ],
+      "spec": [{
+        "title": "Тип КПП",
+        "description":"Автоматическая"
+      },
+        {
+          "title": "Тип кузова",
+          "description":"седан"
+        }
+      ]
+    },
+    { "id": 5,
+      "img": "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13787954/vehicle_slider_1%402x.jpg",
+      "brand":"Toyota",
+      "model": "Rav 4",
+      "description": "2.5 AT (180 л.с.) 4WD, 114436 км, Бензин, Полный привод, Fresh Тюмень",
+      "price": 25000,
+      "gallery": [
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11729733/vehicle_slider_1.2A8HK7axdOYxnPbrO3COB9-IdOK7gn7k%402x.3K3-l6ZIn0wynkRa3e9JPIR3Dm9GuAcW-4xZWLjO9uQ",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11729735/vehicle_slider_1.csfRirax3i7nPVwjuZcmzwkp3iptI9Qs%402x.E2-e8hfL_qlhR_i7Ta4iwkF9X8VMbS2Hv95xykzdvKY",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11729737/vehicle_slider_1.i2S4vbaxJ42OCqWAoovPT3weJ4kEFC2P%402x.Jxct32fOtxwuNb5G7o48D50xDeKoaIBoBvH1Y7_EBjM",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13604727/vehicle_slider_1.GqTsPra4tk3aiTRA1D5andOctEtSnzRb2pK0T1yXvkda%402x.O4f3lfuICiljkHS-LvokjsO-wT6bKbZqthgj7o2K03s"
+      ],
+      "spec": [{
+        "title": "Тип КПП",
+        "description":"Автоматическая"
+      },
+        {
+          "title": "Тип кузова",
+          "description":"кроссовер"
+        }
+      ]
+    },
+    { "id": 6,
+      "img": "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11111968/vehicle_slider_1%402x.jpg",
+      "brand":"Toyota",
+      "model": "Supra",
+      "description": "3.0 AT (340 л.с.), 146 км, Бензин, Задний привод, Fresh Ростов Аксай",
+      "price": 49000,
+      "gallery": [
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11111968/vehicle_slider_1%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11111969/vehicle_slider_2%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11111970/vehicle_slider_3%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/11111971/vehicle_slider_4%402x.jpg"
+      ],
+      "spec": [{
+        "title": "Тип КПП",
+        "description":"Механическая"
+      },
+        {
+          "title": "Тип кузова",
+          "description":"купе"
+        }
+      ]
+    },
+    { "id": 7,
+      "img": "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13653571/vehicle_slider_1%402x.jpg",
+      "brand":"Toyota",
+      "model": "Camry",
+      "description": "3.0 AT (340 л.с.), 146 км, Бензин, Задний привод, Fresh Ростов Аксай",
+      "price": 32000,
+      "gallery": [
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13653571/vehicle_slider_1%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13653572/vehicle_slider_2%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13653573/vehicle_slider_3%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13653574/vehicle_slider_4%402x.jpg"
+      ],
+      "spec": [{
+        "title": "Тип КПП",
+        "description":"Автоматическая"
+      },
+        {
+          "title": "Тип кузова",
+          "description":"седан"
+        }
+      ]
+    },
+    { "id": 8,
+      "img": "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13788598/vehicle_slider_untitled__1_of_15_%402x.jpg",
+      "brand":"Volkswagen",
+      "model": "Tiguan",
+      "description": "L 2.0 AMT (186 л.с.), 461 км, Бензин, Передний привод, Fresh Краснодар",
+      "price": 42000,
+      "gallery": [
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13788598/vehicle_slider_untitled__1_of_15_%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13788599/vehicle_slider_untitled__2_of_15_%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13788600/vehicle_slider_untitled__3_of_15_%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13788601/vehicle_slider_untitled__4_of_15_%402x.jpg"
+      ],
+      "spec": [{
+        "title": "Тип КПП",
+        "description":"Автоматическая"
+      },
+        {
+          "title": "Тип кузова",
+          "description":"кроссовер"
+        }
+      ]
+    },
+    { "id": 8,
+      "img": "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13303294/vehicle_slider_1%402x.jpg",
+      "brand":"Mazda",
+      "model": "RX 8",
+      "description": "1.3 MT (231 л.с.), 86118 км, Бензин, Задний привод, Fresh Воронеж Юг",
+      "price": 26000,
+      "gallery": [
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13303294/vehicle_slider_1%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13303296/vehicle_slider_2%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13303297/vehicle_slider_3%402x.jpg",
+        "https://134706.selcdn.ru/v1/SEL_39171/freshauto-crm-production-public/system/image/file/13303298/vehicle_slider_4%402x.jpg"
+      ],
+      "spec": [{
+        "title": "Тип КПП",
+        "description":"Механическая"
+      },
+        {
+          "title": "Тип кузова",
+          "description":"купе"
+        }
+      ]
     }
+
   ],
   "brands": ["BMW","Audi","Toyota","Subaru","Volkswagen","Mazda","Nissan","Renault","Mitsubishi"]
 }

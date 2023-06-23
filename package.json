@@ -2,6 +2,7 @@
   "name": "circle-devs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://maaxon.github.io/circle-devs/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@styled-icons/fa-solid": "^10.47.0",
@@ -14,6 +15,7 @@
     "@types/react-dom": "^18.2.4",
     "@types/react-redux": "^7.1.25",
     "axios": "^1.4.0",
+    "gh-pages": "^5.0.0",
     "json-server": "^0.17.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -28,11 +30,13 @@
     "wouter": "^2.11.0"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "serve": "json-server --watch ./server/db.json --port 5000"
+    "serve": "json-server --watch ./server/db.json --port 5000",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": [
